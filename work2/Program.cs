@@ -38,9 +38,7 @@ void ChangeArray(int[,] matr)
             }
         }
     }
-   //else Console.Write($"Невозможно, т.к. матрица не квадратная");
 }
-//else Console.Write($"Невозможно, т.к. матрица не квадратная");
 
 void PrintArray(int[,] matr)
 {
